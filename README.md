@@ -25,6 +25,15 @@ _Great job adding headers to the file :sparkles:_
 
 Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
+### Using this course on Android/Termux
+
+You can follow this course on Android devices using [Termux](https://termux.dev/):
+
+- Install Git in Termux with `pkg install git`.
+- Clone this repository and edit files with your preferred terminal editor (for example, `vim` or `nano`).
+- Alternatively, use the GitHub web interface in your mobile browser to edit and commit changes.
+- Push commits from Termux with your GitHub credentials or a personal access token.
+
 ### Example
 
 ```md
