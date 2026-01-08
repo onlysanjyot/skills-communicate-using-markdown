@@ -27,10 +27,11 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 ### Using this course on Android/Termux
 
-You can follow this course on a rooted OnePlus Pad (or any Android device) using [Termux](https://termux.dev/):
+You can follow this course on Android devices using [Termux](https://termux.dev/):
 
 - Install Git in Termux with `pkg install git`.
-- Clone this repository and edit files with your preferred terminal editor (for example, `vim` or `nano`), or use the GitHub web interface in your mobile browser.
+- Clone this repository and edit files with your preferred terminal editor (for example, `vim` or `nano`).
+- Alternatively, use the GitHub web interface in your mobile browser to edit and commit changes.
 - Push commits from Termux with your GitHub credentials or a personal access token.
 
 ### Example
